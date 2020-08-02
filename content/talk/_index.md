@@ -8,7 +8,7 @@ title: Recent & Upcoming Talks
 view: 2
 
 # Optional header image (relative to `static/media/` folder).
-header:
-  caption: ""
-  image: ""
+header: Partially Linear Additive Expectile Regression with Heavy-tailed Errors in High Dimension
+  caption: "Test"
+  image: "/talks/talk1.jpeg"
 ---
