@@ -1,5 +1,5 @@
 ---
-title: Talk1
+title: Partially Linear Additive Expectile Regression with Heavy-tailed Errors in High Dimension
 
 # View.
 #   1 = List
@@ -8,7 +8,7 @@ title: Talk1
 view: 2
 
 # Optional header image (relative to `static/media/` folder).
-header: Partially Linear Additive Expectile Regression with Heavy-tailed Errors in High Dimension
-  caption: "Test"
+header:
+  caption: ""
   image: "/talks/talk1.jpg"
 ---
