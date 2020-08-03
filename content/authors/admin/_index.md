@@ -18,11 +18,11 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include High Dimensional Statistics and Bioinformatics.
 
 interests:
 - High Dimensional Statistics
-- Biostatistics
+- Bioinformatics
 
 education:
   courses:
@@ -67,4 +67,4 @@ social:
 #- Visitors
 ---
 
-Guan'ao is a PhD student in the Department of Statistics of [University of California, Los Angeles](https://www.ucla.edu/), supervised by [Prof. Jingyi Li](http://jsb.ucla.edu/people/jingyi-jessica-li). His research interests include High Dimensional Statistics and Biostatistics. He has accomplished his MSc degree at [Zhejiang University](https://www.zju.edu.cn/english/) and a BSc degree at [Shandong University](https://en.sdu.edu.cn/).
+Guan'ao is a PhD student in the Department of Statistics of [University of California, Los Angeles](https://www.ucla.edu/), supervised by [Prof. Jingyi Li](http://jsb.ucla.edu/people/jingyi-jessica-li). His research interests include High Dimensional Statistics and Bioinformatics. He has accomplished his MSc degree at [Zhejiang University](https://www.zju.edu.cn/english/) and a BSc degree at [Shandong University](https://en.sdu.edu.cn/).
