@@ -50,7 +50,7 @@ url_video:
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: "A brief illustration of RA3"
-  focal_point: "Left"
+  focal_point: "smart"
   preview_only: false
 
 # Associated Projects (optional).
