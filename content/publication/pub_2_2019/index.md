@@ -1,10 +1,10 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Robust estimation and shrinkage in ultrahigh di- mensional expectile regression with heavy tails and variance heterogeneity"
+title: "Robust estimation and shrinkage in ultrahigh dimensional expectile regression with heavy tails and variance heterogeneity"
 authors: []
-date: "2019-10-01"
-doi: "https://arxiv.org/abs/1909.09302"
+date: "2021-03-11"
+doi: "https://link.springer.com/article/10.1007/s00362-021-01227-2"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2020-08-03T18:45:59+08:00
@@ -37,7 +37,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://arxiv.org/pdf/1909.09302.pdf
+url_pdf: https://link.springer.com/content/pdf/10.1007/s00362-021-01227-2.pdf
 url_code:
 url_dataset:
 url_poster:

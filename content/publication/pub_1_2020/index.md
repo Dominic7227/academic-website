@@ -1,9 +1,9 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "A reference-guided approach for epigenetic characterization of single cells"
+title: "RA3 is a reference-guided approach for epigenetic characterization of single cells"
 authors: []
-date: "2020-06-07"
+date: "2021-04-12"
 doi: "https://www.biorxiv.org/content/10.1101/2020.06.16.155010v1"
 
 # Schedule page publish date (NOT publication's date).
@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://www.biorxiv.org/content/10.1101/2020.06.16.155010v1.full.pdf
+url_pdf: https://www.nature.com/articles/s41467-021-22495-4.pdf
 url_code: https://github.com/cuhklinlab/RA3
 url_dataset:
 url_poster:
